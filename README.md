@@ -18,10 +18,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/sithumgimhana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href="https://github.com/Sithum001"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
   <a href="https://www.linkedin.com/in/sithum-gimhana/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="mailto:sithumsgimhana@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/></a>
-  <a href="https://www.instagram.com/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>
+  <a href="https://www.instagram.com/sithxmgimhana/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>
 </p>
 
 ---
