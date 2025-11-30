@@ -8,7 +8,7 @@
 <p align="center" style="font-size:18px;">
 🎓 Undergraduate in <b>BSc. (Hons.) Information Technology</b> at University of Moratuwa <br>
 💻 Passionate <b>full-stack developer</b> & <b>UI/UX engineer</b> <br>
-⚡ Skilled in <b>React, Next.js, Node.js, MongoDB, MySQL</b> <br>
+⚡ Skilled in <b>React, Next.js, Node.js, Laravel, MongoDB, MySQL</b> <br>
 🚀 Currently building <b>MindfulConnect – Online Counseling Platform</b> <br>
 🌱 Always exploring modern tech & improving development skills <br><br>
 🎉 <i>Fun Fact: My debugging speed doubles with good music 🎧</i>
@@ -41,6 +41,7 @@
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" /></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" /></a>
   <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" /></a>
+  <a href="https://laravel.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" /></a>
 
   <!-- Databases -->
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" /></a>
