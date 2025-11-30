@@ -71,12 +71,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumgimhana&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🚀 Current Projects
-- **MindfulConnect** – Online counseling platform (Next.js + MongoDB)
-- **CeylonTrimmers** – Web app for client booking & management
-- **Hardware Projects** – ESP32, Servo motor automation, battery management
+
+
 
 ---
 
