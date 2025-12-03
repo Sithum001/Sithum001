@@ -8,7 +8,7 @@
 <p align="center" style="font-size:18px;">
 🎓 Undergraduate in <b>BSc. (Hons.) Information Technology</b> at University of Moratuwa <br>
 💻 Passionate <b>full-stack developer</b> & <b>UI/UX engineer</b> <br>
-⚡ Skilled in <b>React, Next.js, Node.js, Laravel, MongoDB, MySQL</b> <br>
+⚡ Skilled in <b>React, Next.js, Node.js, MongoDB, MySQL</b> <br>
 🚀 Currently building <b>MindfulConnect – Online Counseling Platform</b> <br>
 🌱 Always exploring modern tech & improving development skills <br><br>
 🎉 <i>Fun Fact: My debugging speed doubles with good music 🎧</i>
@@ -18,10 +18,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/Sithum001"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href="https://github.com/sithumgimhana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
   <a href="https://www.linkedin.com/in/sithum-gimhana/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="mailto:sithumsgimhana@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/></a>
-  <a href="https://www.instagram.com/sithxmgimhana/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>
+  <a href="mailto:sithumgimhanaofficial@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/></a>
+  <a href="https://www.instagram.com/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>
 </p>
 
 ---
@@ -41,7 +41,6 @@
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" /></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" /></a>
   <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" /></a>
-  <a href="https://laravel.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" /></a>
 
   <!-- Databases -->
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" /></a>
@@ -63,12 +62,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Sithum001&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sithumgimhana&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumgimhana&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumgimhana&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
-
+## 🚀 Current Projects
+- **MindfulConnect** – Online counseling platform (Next.js + MongoDB)
+- **CeylonTrimmers** – Web app for client booking & management
+- **Hardware Projects** – ESP32, Servo motor automation, battery management
 
 ---
 
