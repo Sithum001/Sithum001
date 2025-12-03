@@ -41,6 +41,9 @@
   <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" /></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" /></a>
   <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" /></a>
+  
+  <!-- ⭐ Laravel Added -->
+  <a href="https://laravel.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" /></a>
 
   <!-- Databases -->
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" /></a>
@@ -58,6 +61,7 @@
 
 </p>
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -70,14 +74,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithumgimhana&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🚀 Current Projects
-- **MindfulConnect** – Online counseling platform (Next.js + MongoDB)
-- **CeylonTrimmers** – Web app for client booking & management
-- **Hardware Projects** – ESP32, Servo motor automation, battery management
-
----
 
 ## 🎯 Goals for 2025
 - 🚀 Build more SaaS products  
