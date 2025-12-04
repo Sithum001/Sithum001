@@ -64,8 +64,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sithumgimhana&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sithumgimhana&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sithum001&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithum001&theme=tokyonight" />
 </p>
 
 <p align="center">
